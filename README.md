@@ -1,3 +1,1 @@
-# Atividade1
-
-Repositório de treinamento MMDA.
+Repositório de treinamento MMDA
